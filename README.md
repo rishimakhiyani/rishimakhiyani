@@ -1,6 +1,6 @@
 # Hi, I’m Rishima Khiyani
 
-I am a third-year Engineering student at Simon Fraser University with an interest in systems engineering, software development, embedded systems, data analysis, and technology-driven problem solving.
+I am a third-year Systems Engineering student at Simon Fraser University with an interest in software development, embedded systems, data analysis, and technology-driven problem solving.
 
 I use this GitHub as a portfolio to organize my engineering, software, and technical projects. My work focuses on building practical systems, improving my programming skills, and documenting projects clearly.
 
@@ -14,7 +14,7 @@ I use this GitHub as a portfolio to organize my engineering, software, and techn
 
 ## Technical Skills
 
-**Languages:** C++, C, Python, Java, JavaScript, MATLAB
+**Languages:** C++, C, Python, Java, MATLAB
 **Tools:** Git, GitHub, VS Code, Eclipse, Linux, Windows, Arduino IDE, SolidWorks, LTspice
 **Other:** Excel, PowerPoint, Word, testing, troubleshooting, documentation, project planning
 
