@@ -31,6 +31,7 @@ I use this GitHub as a portfolio to organize my engineering, software, and techn
 I am open to co-op opportunities, technical projects, and learning-focused collaborations.
 
 **LinkedIn:** www.linkedin.com/in/rishimakhiyani
+
 **Email:** rishimak164@gmail.com
 
 <!--
